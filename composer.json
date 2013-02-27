@@ -1,5 +1,5 @@
 {
-	"name": "silverstripe/widgets_sidetext",
+	"name": "sunnysideup/widgets_sidetext",
 	"type": "silverstripe-module",
 	"description": "silverstripe widget to display formatted text on the sidebar",
 	"homepage": "http://www.silverstripe-webdevelopment.com",
