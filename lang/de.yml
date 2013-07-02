@@ -1,0 +1,17 @@
+de:
+  SideTextWidgetAdmin:
+    MENUTITLE: 'Seitenleisten Texte'
+    TITLE: Titel
+    INTERNALTITLE: Arbeitstitel
+    TEXT: Text
+    LINKTEXT: 'Link Text'
+    EXTERNALLINK: 'Externer Link'
+    INTERNALLINK: 'Interner Link'
+    IMAGELINK: 'Bild Link'
+    CAPTION: 'Bild Beschriftung'
+    IMAGEHINT: 'Bild (wird auf 100px skaliert)'
+    IMAGE: 'Bild'
+  SideTextWidget:
+    CHOOSE: 'Auswahl Seitenleisten Texte'
+    DESCRIPTION: 'Zeigt eine Textbox in der Widget Fläche. Es können Bilder hochgeladen und Links gesetzt werden. <br/>Texte werden in eigenem <a href="/admin/sidetextwidget/" target="_blank">Bereich</a> gepflegt.'
+    CMSTITLE: 'Seitenleisten Textbox'
