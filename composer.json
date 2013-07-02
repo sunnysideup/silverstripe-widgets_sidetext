@@ -3,18 +3,22 @@
 	"type": "silverstripe-module",
 	"description": "silverstripe widget to display formatted text on the sidebar",
 	"homepage": "http://www.silverstripe-webdevelopment.com",
-	"keywords": ["widgets_sidetext", "silverstripe"],
+	"keywords": ["widgets", "sidetext", "silverstripe"],
 	"license": "Sunny Side Up (BSD-3-Clause and CUSTOM)",
 	"authors":[
 		{
 			"name": "Nicolaas Francken",
 			"homepage": "https://github.com/sunnysideup",
 			"email" : "modules@sunnysideup.co.nz",
-			"role" : "lead developer"
+			"role" : "developed 2.4 version"
+		},
+		{
+			"name": "Ivo Bathke",
+			"homepage": "https://github.com/ivoba",
+			"role" : "developed 3.0 version"
 		}
 	],
 	"require":{
-		"php": ">=5.3.2",
-		"silverstripe/framework": ">=2.4.0"
+		"silverstripe/framework": "~3.0"
 	}
 }
