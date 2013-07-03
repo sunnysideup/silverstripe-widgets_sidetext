@@ -6,6 +6,7 @@
     $Body
     <% end_if %>
     <% if $LinkText %>
+<<<<<<< HEAD
     <a class="link button darkgreen" href="<% if TextLinkExternal %>$TextLinkExternal<% else_if $TextLinkInternal %>$TextLinkInternal.Link<% end_if %>" <% if $Link %>target="_blank"<% end_if %>><span class="sprite arrow white"></span>$LinkText</a>
     <% end_if %>
     <% if $Image %>
