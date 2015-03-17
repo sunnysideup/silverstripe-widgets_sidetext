@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<source xmlns="http://xml.phpdox.net/src">
+  <dir name="/var/www/_modules/widgets_sidetext/trunk">
+    <file name="_config.php" size="140" time="2015-03-14T10:22:08+13:00" unixtime="1426281728" sha1="6897079ff506d901340502a791a7894a8aa45c76" xml="tokens/_config.php.xml"/>
+    <dir name="code">
+      <file name="SideTextWidget.php" size="1269" time="2015-03-14T10:22:08+13:00" unixtime="1426281728" sha1="621e681ae3c961a1b3562bae474e3dd1ff371b99" xml="tokens/code/SideTextWidget.php.xml"/>
+      <file name="SideTextWidgetAdmin.php" size="322" time="2015-03-14T10:22:08+13:00" unixtime="1426281728" sha1="bb0dbee733fb3908e45bf315099b15f1dfea6b88" xml="tokens/code/SideTextWidgetAdmin.php.xml"/>
+      <file name="SideTextWidgetDataObject.php" size="1937" time="2015-03-14T10:22:08+13:00" unixtime="1426281728" sha1="9dd51cb3183f347e24aadcf0db15cc728cd90956" xml="tokens/code/SideTextWidgetDataObject.php.xml"/>
+    </dir>
+    <file name="SideTextWidget.php" size="3218" time="2015-03-14T10:22:08+13:00" unixtime="1426281728" sha1="e895482cdd5ff979276cef5522a1af85f6b6dbf9" xml="tokens/SideTextWidget.php.xml"/>
+  </dir>
+</source>

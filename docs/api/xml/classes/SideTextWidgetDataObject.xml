@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class xmlns="http://xml.phpdox.net/src" full="SideTextWidgetDataObject" namespace="" name="SideTextWidgetDataObject" abstract="false" final="false" start="3" end="43">
+  <file path="/var/www/_modules/widgets_sidetext/trunk/docs/en/phpdox/../../../code" file="SideTextWidgetDataObject.php" realpath="/var/www/_modules/widgets_sidetext/trunk/code/SideTextWidgetDataObject.php" size="1937" time="2015-03-14T10:22:08+13:00" unixtime="1426281728" sha1="9dd51cb3183f347e24aadcf0db15cc728cd90956" relative="code/SideTextWidgetDataObject.php"/>
+  <extends full="DataObject" namespace="" name="DataObject"/>
+  <member name="db" type="array" visibility="public" line="5"/>
+  <member name="has_one" type="array" visibility="public" line="13"/>
+  <member name="summary_fields" type="array" visibility="public" line="18"/>
+  <member name="singular_name" type="string" default="&quot;Sidebar Section&quot;" visibility="public" line="19"/>
+  <member name="plural_name" type="string" default="&quot;Sidebar Sections&quot;" visibility="public" line="20"/>
+  <member name="default_sort" type="string" default="&quot;Title&quot;" visibility="public" line="23"/>
+  <method name="getCMSFields" start="25" end="41" abstract="false" final="false" static="false" visibility="public"/>
+</class>
