@@ -3,9 +3,11 @@
     "type": "silverstripe-module",
     "description": "silverstripe widget to display formatted text on the sidebar",
     "keywords": [
+        "Silverstripe-CMS",
+        "CMS",
+        "Silverstripe",
         "widgets",
-        "sidetext",
-        "silverstripe"
+        "sidetext"
     ],
     "license": "Sunny Side Up (BSD-3-Clause and CUSTOM)",
     "authors": [
@@ -21,7 +23,8 @@
         }
     ],
     "require": {
-        "silverstripe/framework": "~3.1"
+        "silverstripe/framework": "~3.1",
+        "silverstripe/cms": "~3.1"
     },
     "extra": {
         "installer-name": "widgets_sidetext"
