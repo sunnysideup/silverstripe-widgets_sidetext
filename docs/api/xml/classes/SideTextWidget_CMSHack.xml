@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<class xmlns="http://xml.phpdox.net/src" full="SideTextWidget_CMSHack" namespace="" name="SideTextWidget_CMSHack" abstract="false" final="false" start="104" end="111">
-  <file path="/var/www/_modules/widgets_sidetext/trunk/docs/en/phpdox/../../.." file="SideTextWidget.php" realpath="/var/www/_modules/widgets_sidetext/trunk/SideTextWidget.php" size="3218" time="2015-03-14T10:22:08+13:00" unixtime="1426281728" sha1="e895482cdd5ff979276cef5522a1af85f6b6dbf9" relative="SideTextWidget.php"/>
-  <extends full="LeftAndMainDecorator" namespace="" name="LeftAndMainDecorator"/>
-  <method name="init" start="105" end="110" abstract="false" final="false" static="false" visibility="public"/>
-</class>
